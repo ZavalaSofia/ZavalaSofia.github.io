@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 2rem;
-  background-color: #5e9f65; 
+  background-color: #5e9f65;
 }
 
 .navbar-collapse {
@@ -260,7 +260,7 @@ h1 {
 
 .testimonio-imagen {
   height: 550px;
-  width: 450px;
+  width: 350px;
   margin: 10px 10px 20px 10px;
 }
 
@@ -348,8 +348,8 @@ footer {
 }
 
 .footer-logo {
-  height: 80px;
-  width: 80px;
+  height: 280px;
+  width: 280px;
   margin: 10px;
   color: #f8e6ed;
 }
