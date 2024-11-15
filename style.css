@@ -6,8 +6,8 @@
 }
 
 .navbar-collapse {
-  align-items: right;
-  justify-content: space-between;     
+  align-items: center;
+  justify-content: space-between;  
 }
 
 /* Estilos generales */
@@ -17,7 +17,6 @@ section {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  
 }
 
 h1 {
@@ -33,7 +32,7 @@ h1 {
 
 .seccion-clara {
   color: black;
-  background-image: url(imagenes/Grafica\ Mapa\ Conceptual\ Esquema\ Simple\ Multicolor.png);
+  background-image: url(imagenes/Fondo\ Cafe\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -42,16 +41,16 @@ h1 {
   font-size: 2.5rem;
   padding: 15px 0;
   font-family: 'Rubik Dirt', cursive;
-  color:black;
+  color:#efc25d;
 }
 
 .seccion-descripcion {
   font-size: 1.8rem;
-  color: black;
+  color: #8cc277;
 }
 
 .seccion-texto {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
 }
 
 .btn-info {
@@ -187,8 +186,8 @@ h1 {
 }
 
 .overlay p {
-  font-size: 20px;
-  color: #1e2904;
+  font-size: 25px;
+  color: #76884a;
   font-weight: bold;
   margin-bottom: 0;
 }
@@ -210,7 +209,7 @@ h1 {
 }
 
 .overlay i {
-  color: #1e2904;
+  color: #76884a;
   font-size: 60px;
   margin: 10px;
 }
@@ -259,8 +258,8 @@ h1 {
 }
 
 .testimonio-imagen {
-  height: 550px;
-  width: 350px;
+  height: 150px;
+  width: 150px;
   margin: 10px 10px 20px 10px;
 }
 
@@ -348,8 +347,8 @@ footer {
 }
 
 .footer-logo {
-  height: 280px;
-  width: 280px;
+  height: 80px;
+  width: 80px;
   margin: 10px;
   color: #f8e6ed;
 }
